@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cnych-mcp-sse-demo-badge.png)](https://mseep.ai/app/cnych-mcp-sse-demo)
+
 # 开发 SSE 类型的 MCP 服务
 
 [MCP](https://www.claudemcp.com/) 支持两种通信传输方法：`STDIO`（标准输入/输出）或 `SSE`（服务器推送事件），两者都使用 `JSON-RPC 2.0` 进行消息格式化。`STDIO` 用于本地集成，而 `SSE` 用于基于网络的通信。

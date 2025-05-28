@@ -690,7 +690,8 @@ MCP 服务器可以使用多种技术实现：
 
 ---
 
-2025.05.28. Update，在客户端中使用 OpenAI LLM。
+2025.05.28. Update，在客户端中使用 OpenAI LLM。参考 [使用 MCP Python SDK 开发 MCP 服务器与客户端
+](https://www.claudemcp.com/zh/docs/mcp-py-sdk-basic) 。
 
 前面我们使用的是 TypeScript + Claude + MCP + SSE 的组合，有一些 issue 提到如何替换成 OpenAI 大模型，下面我们用 MCP Python SDK 来实现一个简单的基于 OpenAI 的 MCP 客户端。
 
